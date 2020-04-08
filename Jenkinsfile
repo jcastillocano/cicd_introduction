@@ -18,6 +18,12 @@ pipeline {
         echo 'Hello world!'
       }
     }
+
+    stage('Run tests') {
+      steps {
+        sh './run_tests.sh'
+      }
+    }
   }
 
   post {
