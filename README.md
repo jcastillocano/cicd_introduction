@@ -38,3 +38,7 @@ Para verificar que todo funcionó correctamente, podemos darle a `Build` y ver e
 
 Crear el código de la librería, los tests y definir los pasos de nuestro pipeline (análisis de código, tests, generación
 de artefacto, publicación, etc).
+
+## Presentación
+
+Puede visualizar las transparencias usadas en la presentación en el siguiente enlace [keepcoding](https://docs.google.com/presentation/d/1_C4MIO2r2F7JSWLegVo3gHJJFU5RlOBoZwoMz9BOZD4/edit?usp=sharing)
